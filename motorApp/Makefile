@@ -96,8 +96,8 @@ ifdef ASYN
 #DIRS += SmarActMCSSrc
 #SmarActMCSSrc_DEPEND_DIRS = MotorSrc
 
-DIRS += SmarActMCS2Src
-SmarActMCS2Src_DEPEND_DIRS = MotorSrc
+#DIRS += SmarActMCS2Src
+#SmarActMCS2Src_DEPEND_DIRS = MotorSrc
 
 DIRS += Keithley2461Src
 SmarActMCS2Src_DEPEND_DIRS = MotorSrc
