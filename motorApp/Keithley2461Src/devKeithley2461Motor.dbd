@@ -1,0 +1,2 @@
+registrar(keithley2461MotorRegister)
+#driver(motorMCS)
